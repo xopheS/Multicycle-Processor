@@ -1,0 +1,585 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera_lite/16.0
+Econtroller
+Z0 w1539009910
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 d//files7/data/csaad/My Documents/lab02/modelsim
+Z5 8//files7/data/csaad/My Documents/lab02/vhdl/Controller.vhd
+Z6 F//files7/data/csaad/My Documents/lab02/vhdl/Controller.vhd
+l0
+L5
+VQNRdUR5N=bM4Yh<KB[Wah1
+!s100 EgmZX?@Hlj_:FT@1zk_WE3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1539152659
+!i10b 1
+Z9 !s108 1539152659.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/Controller.vhd|
+Z11 !s107 //files7/data/csaad/My Documents/lab02/vhdl/Controller.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Asynth
+R1
+R2
+R3
+DEx4 work 10 controller 0 22 QNRdUR5N=bM4Yh<KB[Wah1
+l18
+L17
+VecYGEP=ze?5Men@=jVI<T1
+!s100 ma6P5AB>OVS>VVO5E:eiU0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edecoder
+Z14 w1539101787
+R1
+R2
+R3
+R4
+Z15 8//files7/data/csaad/My Documents/lab02/vhdl/decoder.vhd
+Z16 F//files7/data/csaad/My Documents/lab02/vhdl/decoder.vhd
+l0
+L5
+VU?AT>Z]mM@<^]6F2zNAK73
+!s100 E70XToNOKdM31o2OfPCQK3
+R7
+32
+Z17 !s110 1539152660
+!i10b 1
+Z18 !s108 1539152660.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/decoder.vhd|
+Z20 !s107 //files7/data/csaad/My Documents/lab02/vhdl/decoder.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 7 decoder 0 22 U?AT>Z]mM@<^]6F2zNAK73
+l15
+L14
+V^T]C0mQi0IkYXP34:FcXM3
+!s100 MK5gIoM_E>n2EI:Y<4TBa2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Efpga4u_with_controller
+R0
+R2
+R3
+R4
+Z21 8//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_with_controller.vhd
+Z22 F//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_with_controller.vhd
+l0
+L24
+V=:f=j`>OO=61_Q:WX;AeN1
+!s100 `1RbW94><6J]8CK?H<fzS3
+R7
+32
+Z23 !s110 1539152661
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_with_controller.vhd|
+Z25 !s107 //files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_with_controller.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+Z26 DEx4 work 22 fpga4u_with_controller 0 22 =:f=j`>OO=61_Q:WX;AeN1
+l97
+L33
+V<iXS`zZaco0^BPS_`^KnA0
+!s100 RcJMHfGX2QE:aLibWNebS2
+R7
+32
+R23
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R12
+R13
+Efpga4u_without_controller
+R0
+R2
+R3
+R4
+Z27 8//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_without_controller.vhd
+Z28 F//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_without_controller.vhd
+l0
+L24
+VFCoiMT1ozEjHKS<L095c@1
+!s100 69dai>]IQUYlKDS^l9;He1
+R7
+32
+R23
+!i10b 1
+Z29 !s108 1539152661.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_without_controller.vhd|
+Z31 !s107 //files7/data/csaad/My Documents/lab02/vhdl/FPGA4U_without_controller.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+Z32 DEx4 work 25 fpga4u_without_controller 0 22 FCoiMT1ozEjHKS<L095c@1
+l86
+L38
+V3eS^oHjd]:IN0nhaT]z9[0
+!s100 29N9S8[5?VkolAz4YIf:;2
+R7
+32
+R23
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R12
+R13
+Eleds
+R0
+R1
+R2
+R3
+R4
+Z33 8//files7/data/csaad/My Documents/lab02/vhdl/LEDs.vhd
+Z34 F//files7/data/csaad/My Documents/lab02/vhdl/LEDs.vhd
+l0
+L5
+V82^IRfHNag^>;Yc>Z[nm>3
+!s100 LBhnQz<diU;5h1EbFfFEW1
+R7
+32
+Z35 !s110 1539152662
+!i10b 1
+Z36 !s108 1539152662.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/LEDs.vhd|
+Z38 !s107 //files7/data/csaad/My Documents/lab02/vhdl/LEDs.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 4 leds 0 22 82^IRfHNag^>;Yc>Z[nm>3
+l34
+L22
+Vj;cD^kSPz:JHjlD@L]j;81
+!s100 ^Eb^?kG1CKeS`DJCfdSl82
+R7
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R12
+R13
+Ppack
+Z39 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z40 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+Z41 w1539009911
+R4
+Z42 8//files7/data/csaad/My Documents/lab02/vhdl/rgb_led96.vhd
+Z43 F//files7/data/csaad/My Documents/lab02/vhdl/rgb_led96.vhd
+l0
+L12
+VSgkf7C>zV<_V6E^@jUKD^3
+!s100 FB]U9M?hE8E5iehJ9[AWh3
+R7
+32
+b1
+Z44 !s110 1539152664
+!i10b 1
+Z45 !s108 1539152663.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/rgb_led96.vhd|
+Z47 !s107 //files7/data/csaad/My Documents/lab02/vhdl/rgb_led96.vhd|
+!i113 1
+R12
+R13
+Bbody
+Z48 DPx4 work 4 pack 0 22 Sgkf7C>zV<_V6E^@jUKD^3
+R39
+R40
+R2
+R3
+l0
+L17
+VQ[i6CQaWYOi37nk]<RCBH3
+!s100 8]CiCz8GM]b_8`cfK=T:`2
+R7
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R12
+R13
+Eram
+Z49 w1539100358
+R1
+R2
+R3
+R4
+Z50 8//files7/data/csaad/My Documents/lab02/vhdl/RAM.vhd
+Z51 F//files7/data/csaad/My Documents/lab02/vhdl/RAM.vhd
+l0
+L5
+VJiWAmLGUWmdVPB8L2QZ[D3
+!s100 9O>00CFElD4PLMkihiTWm3
+R7
+32
+R35
+!i10b 1
+R36
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/RAM.vhd|
+Z53 !s107 //files7/data/csaad/My Documents/lab02/vhdl/RAM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 3 ram 0 22 JiWAmLGUWmdVPB8L2QZ[D3
+l20
+L16
+VE5U=QmNFB]ogMU4h8iN0a1
+!s100 zYh0Y6[^M9@nVdIW5@:`K0
+R7
+32
+R35
+!i10b 1
+R36
+R52
+R53
+!i113 1
+R12
+R13
+Eregister_file
+Z54 w1539100067
+R1
+R2
+R3
+R4
+Z55 8//files7/data/csaad/My Documents/lab02/vhdl/register_file.vhd
+Z56 F//files7/data/csaad/My Documents/lab02/vhdl/register_file.vhd
+l0
+L5
+VhQYRZ<6ijZW2:hk46k4IZ2
+!s100 _;mToXbZzY:WVO^oMIJ;J3
+R7
+32
+Z57 !s110 1539152663
+!i10b 1
+R45
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/register_file.vhd|
+Z59 !s107 //files7/data/csaad/My Documents/lab02/vhdl/register_file.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 hQYRZ<6ijZW2:hk46k4IZ2
+l21
+L18
+VJTLc3i[LHO3?;><LlSn=62
+!s100 X8X_`jnUc51`F?DjCU>:l2
+R7
+32
+R57
+!i10b 1
+R45
+R58
+R59
+!i113 1
+R12
+R13
+Ergb_led96
+R41
+R48
+R40
+R39
+R2
+R3
+R4
+R42
+R43
+l0
+L46
+VDn00^;b6BmV8c[7[]6<CU2
+!s100 X:YKB@hW0<LC:6C595LeJ0
+R7
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R12
+R13
+Aarch
+R48
+R40
+R39
+R2
+R3
+DEx4 work 9 rgb_led96 0 22 Dn00^;b6BmV8c[7[]6<CU2
+l144
+L80
+VVMLEXCQSI_@JdCBGa]SIz1
+!s100 g<aGZ1bIK0AWZCQOUK`ba3
+R7
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R12
+R13
+Erom
+Z60 w1539152633
+R1
+R2
+R3
+R4
+Z61 8//files7/data/csaad/My Documents/lab02/vhdl/ROM.vhd
+Z62 F//files7/data/csaad/My Documents/lab02/vhdl/ROM.vhd
+l0
+L5
+V;HIY62b?IMTaL7>j?MTM@2
+!s100 ;HJP:4Pf6d9ca=B<]K[Bj1
+R7
+32
+Z63 !s110 1539152665
+!i10b 1
+Z64 !s108 1539152664.000000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/ROM.vhd|
+Z66 !s107 //files7/data/csaad/My Documents/lab02/vhdl/ROM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+Z67 DEx4 work 3 rom 0 22 ;HIY62b?IMTaL7>j?MTM@2
+l26
+L15
+Z68 VX2T;FVK;8YlACo58k<HMA1
+Z69 !s100 QVOkF2@@Amh?MTzl]Q9M92
+R7
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R12
+R13
+Erom_block
+R41
+R2
+R3
+R4
+Z70 8//files7/data/csaad/My Documents/lab02/vhdl/ROM_Block.vhd
+Z71 F//files7/data/csaad/My Documents/lab02/vhdl/ROM_Block.vhd
+l0
+L42
+VCf[gZ]hQBZigaT1P:e9O01
+!s100 Fb1^C3b1G3KcM]0dFoPHV2
+R7
+32
+Z72 !s110 1539152658
+!i10b 1
+Z73 !s108 1539152658.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/vhdl/ROM_Block.vhd|
+Z75 !s107 //files7/data/csaad/My Documents/lab02/vhdl/ROM_Block.vhd|
+!i113 1
+R12
+R13
+Asyn
+R2
+R3
+DEx4 work 9 rom_block 0 22 Cf[gZ]hQBZigaT1P:e9O01
+l82
+L52
+VZKBR7P0EaE;PJMf_Ho4411
+!s100 2O9W8o5<`cI7Pb0TBCEoL0
+R7
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R12
+R13
+Etb_controller
+R0
+R2
+R3
+R4
+Z76 8//files7/data/csaad/My Documents/lab02/testbench/tb_controller.vhd
+Z77 F//files7/data/csaad/My Documents/lab02/testbench/tb_controller.vhd
+l0
+L4
+ViJgDF5RR:zbcJ5A_GfFbF0
+!s100 28F?L_OHdPH3gH3B4nzCd1
+R7
+32
+Z78 !s110 1539152657
+!i10b 1
+Z79 !s108 1539152657.000000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/testbench/tb_controller.vhd|
+Z81 !s107 //files7/data/csaad/My Documents/lab02/testbench/tb_controller.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R26
+R2
+R3
+DEx4 work 13 tb_controller 0 22 iJgDF5RR:zbcJ5A_GfFbF0
+l13
+L7
+VPWiaV45Yf6[PVmi`KT2@T0
+!s100 WiZQfKkS[Zco`@HUXT1io0
+R7
+32
+R78
+!i10b 1
+R79
+R80
+R81
+!i113 1
+R12
+R13
+Etb_memories
+Z82 w1539109529
+R1
+R2
+R3
+R4
+Z83 8//files7/data/csaad/My Documents/lab02/testbench/tb_memories.vhd
+Z84 F//files7/data/csaad/My Documents/lab02/testbench/tb_memories.vhd
+l0
+L5
+V_[B`<1i^G3X9j`zn<9dcS1
+!s100 >eaMjaQUiFi7T3R9cd3^`0
+R7
+32
+R72
+!i10b 1
+R73
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/testbench/tb_memories.vhd|
+Z86 !s107 //files7/data/csaad/My Documents/lab02/testbench/tb_memories.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R32
+R1
+R2
+R3
+DEx4 work 11 tb_memories 0 22 _[B`<1i^G3X9j`zn<9dcS1
+l19
+L8
+VHU:`e0JJVh96^59cS[6]<1
+!s100 Qec@BZNh5SP611?l>lh_T3
+R7
+32
+R72
+!i10b 1
+R73
+R85
+R86
+!i113 1
+R12
+R13
+Etb_register_file
+Z87 w1539099961
+R1
+R2
+R3
+R4
+Z88 8//files7/data/csaad/My Documents/lab02/testbench/tb_register_file.vhd
+Z89 F//files7/data/csaad/My Documents/lab02/testbench/tb_register_file.vhd
+l0
+L5
+V9dGOXn>gC30@lMD0]CZ;O3
+!s100 1`;gKjLez8z?IanM[D4a_3
+R7
+32
+R78
+!i10b 1
+Z90 !s108 1539152656.000000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//files7/data/csaad/My Documents/lab02/testbench/tb_register_file.vhd|
+Z92 !s107 //files7/data/csaad/My Documents/lab02/testbench/tb_register_file.vhd|
+!i113 1
+R12
+R13
+Abench
+R1
+R2
+R3
+DEx4 work 16 tb_register_file 0 22 9dGOXn>gC30@lMD0]CZ;O3
+l27
+L8
+VzkU_b2OG5<cHBM]S:[7543
+!s100 2DUY0gzG`8^a3B5VeR[]>3
+R7
+32
+R78
+!i10b 1
+R90
+R91
+R92
+!i113 1
+R12
+R13

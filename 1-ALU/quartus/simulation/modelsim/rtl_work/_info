@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/template/quartus/simulation/modelsim
+Eadd_sub
+Z1 w1537946161
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8Z:/template/vhdl/add_sub.vhd
+Z6 FZ:/template/vhdl/add_sub.vhd
+l0
+L5
+VZY^DT@2lNV0T[5[Z4E[no2
+!s100 Ho^oT``GLJUNf<W@=D9Un1
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1537948259
+!i10b 1
+Z9 !s108 1537948258.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|Z:/template/vhdl/add_sub.vhd|
+Z11 !s107 Z:/template/vhdl/add_sub.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Asynth
+R2
+R3
+R4
+DEx4 work 7 add_sub 0 22 ZY^DT@2lNV0T[5[Z4E[no2
+l17
+L16
+VhePceWz5EG5zS2I2S5UCB2
+!s100 dAFPIQA;aX;G3a[HYOmjc2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomparator
+R1
+R3
+R4
+R0
+Z14 8Z:/template/vhdl/comparator.vhd
+Z15 FZ:/template/vhdl/comparator.vhd
+l0
+L4
+VbJ:FVeoLZ^AbP0NGB0ZaI1
+!s100 XTWoF>RX1>LcmLLBBo;N:0
+R7
+31
+R8
+!i10b 1
+Z16 !s108 1537948259.000000
+Z17 !s90 -reportprogress|300|-93|-work|work|Z:/template/vhdl/comparator.vhd|
+Z18 !s107 Z:/template/vhdl/comparator.vhd|
+!i113 1
+R12
+R13
+Asynth
+R3
+R4
+DEx4 work 10 comparator 0 22 bJ:FVeoLZ^AbP0NGB0ZaI1
+l17
+L16
+V7VjR:NZVDUP6lbY1YG]=M2
+!s100 W_^:E1=WQ7kN:@Y9W>e1W2
+R7
+31
+R8
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R12
+R13
+Elogic_unit
+w1537947698
+R3
+R4
+R0
+8Z:/template/vhdl/logic_unit.vhd
+FZ:/template/vhdl/logic_unit.vhd
+l0
+L4
+VBWmHCQZLokYR03;@Kkj4G1
+!s100 UJioXKUg8XUULGTSe2WE20
+R7
+31
+R8
+!i10b 1
+R16
+!s90 -reportprogress|300|-93|-work|work|Z:/template/vhdl/logic_unit.vhd|
+!s107 Z:/template/vhdl/logic_unit.vhd|
+!i113 1
+R12
+R13
+Etb_logic_unit
+Z19 w1537948201
+R3
+R4
+R0
+Z20 8Z:/template/testbench/tb_logic_unit.vhd
+Z21 FZ:/template/testbench/tb_logic_unit.vhd
+l0
+L4
+VhW[@Dm0VMfi]`f]X4J0iB1
+!s100 I0S6Z^F^OTJKf4O?Ic>222
+R7
+32
+Z22 !s110 1537948519
+!i10b 1
+Z23 !s108 1537948519.000000
+Z24 !s90 -reportprogress|300|-work|work|Z:/template/testbench/tb_logic_unit.vhd|
+Z25 !s107 Z:/template/testbench/tb_logic_unit.vhd|
+!i113 1
+Z26 o-work work
+R13
+Atestbench
+R3
+R4
+Z27 DEx4 work 13 tb_logic_unit 0 22 hW[@Dm0VMfi]`f]X4J0iB1
+l21
+L7
+Z28 VzFC>Nn0?m9i:KBG<;B69a3
+Z29 !s100 K:jK>UD3bDiaA0JieC?hI1
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R26
+R13

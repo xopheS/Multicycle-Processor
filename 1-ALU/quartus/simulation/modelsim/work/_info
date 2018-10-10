@@ -1,0 +1,211 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dZ:/template/quartus/simulation/modelsim
+Eadd_sub
+Z1 w1537953272
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8Z:/template/vhdl/add_sub.vhd
+Z6 FZ:/template/vhdl/add_sub.vhd
+l0
+L5
+VfC7TBT??>Ja>D?4NYh4Zb0
+!s100 Ho^oT``GLJUNf<W@=D9Un1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1537953274
+!i10b 1
+Z9 !s108 1537953274.000000
+Z10 !s90 -reportprogress|300|-work|work|Z:/template/vhdl/add_sub.vhd|
+Z11 !s107 Z:/template/vhdl/add_sub.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Asynth
+R2
+R3
+R4
+DEx4 work 7 add_sub 0 22 fC7TBT??>Ja>D?4NYh4Zb0
+l21
+L16
+V9J;J>b9`I=?cXAM7QJaG:2
+!s100 QJ59aHeXKM]U[n7FZC3XP2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+Z14 w1537946161
+R3
+R4
+R0
+Z15 8Z:/template/vhdl/ALU.vhd
+Z16 FZ:/template/vhdl/ALU.vhd
+l0
+L24
+V:gUNbJ7JL>5FRdRBB2GN20
+!s100 O`l`Xc5c_V9`dzon<W_fQ2
+R7
+32
+Z17 !s110 1537954976
+!i10b 1
+Z18 !s108 1537954976.000000
+Z19 !s90 -reportprogress|300|-work|work|Z:/template/vhdl/ALU.vhd|
+Z20 !s107 Z:/template/vhdl/ALU.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R3
+R4
+DEx4 work 3 alu 0 22 :gUNbJ7JL>5FRdRBB2GN20
+l91
+L34
+V2QzbXIhdTW3<n2Za2nO:z3
+!s100 ao^@A8=RSg[FW?jY:[EXI0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ecomparator
+w1537950533
+R3
+R4
+R0
+8Z:/template/vhdl/comparator.vhd
+FZ:/template/vhdl/comparator.vhd
+l0
+L4
+VdZCI8C8]`z65z^_CN4iRL3
+!s100 XTWoF>RX1>LcmLLBBo;N:0
+R7
+32
+!s110 1537954980
+!i10b 1
+!s108 1537954980.000000
+!s90 -reportprogress|300|-work|work|Z:/template/vhdl/comparator.vhd|
+!s107 Z:/template/vhdl/comparator.vhd|
+!i113 1
+R12
+R13
+Elogic_unit
+Z21 w1537949521
+R3
+R4
+R0
+Z22 8Z:/template/vhdl/logic_unit.vhd
+Z23 FZ:/template/vhdl/logic_unit.vhd
+l0
+L4
+VgOTlA0RZCaJNmjU17cN0J0
+!s100 UJioXKUg8XUULGTSe2WE20
+R7
+32
+Z24 !s110 1537949523
+!i10b 1
+Z25 !s108 1537949523.000000
+Z26 !s90 -reportprogress|300|-work|work|Z:/template/vhdl/logic_unit.vhd|
+Z27 !s107 Z:/template/vhdl/logic_unit.vhd|
+!i113 1
+R12
+R13
+Asynth
+R3
+R4
+DEx4 work 10 logic_unit 0 22 gOTlA0RZCaJNmjU17cN0J0
+l14
+L13
+VgLDTNAJ<i:l3nka;dOINS0
+!s100 eoR[jlWl`Q`add[>fLbCB0
+R7
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Etb_alu
+w1537954912
+R2
+R3
+R4
+R0
+8Z:/template/testbench/tb_ALU.vhd
+FZ:/template/testbench/tb_ALU.vhd
+l0
+L5
+V;E`HO_=;?:h<?7A^d=WJA1
+!s100 h4gR^9UUSFUJBW2hl@TTO2
+R7
+32
+!s110 1537954925
+!i10b 1
+!s108 1537954925.000000
+!s90 -reportprogress|300|-work|work|Z:/template/testbench/tb_ALU.vhd|
+!s107 Z:/template/testbench/tb_ALU.vhd|
+!i113 1
+R12
+R13
+Etb_logic_unit
+Z28 w1537949989
+R3
+R4
+R0
+Z29 8Z:/template/testbench/tb_logic_unit.vhd
+Z30 FZ:/template/testbench/tb_logic_unit.vhd
+l0
+L4
+VhW[@Dm0VMfi]`f]X4J0iB1
+!s100 I0S6Z^F^OTJKf4O?Ic>222
+R7
+32
+Z31 !s110 1537949994
+!i10b 1
+Z32 !s108 1537949994.000000
+Z33 !s90 -reportprogress|300|-work|work|Z:/template/testbench/tb_logic_unit.vhd|
+Z34 !s107 Z:/template/testbench/tb_logic_unit.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R3
+R4
+DEx4 work 13 tb_logic_unit 0 22 hW[@Dm0VMfi]`f]X4J0iB1
+l21
+L7
+VhLl19b<h^YKZj7JdS@N=W1
+!s100 :0E=nnc::egRVdVk2eZeK3
+R7
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13
