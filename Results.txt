@@ -1,0 +1,423 @@
+lab03_final_add_sub_tb => Add zero:	2 / 2
+	Successful
+
+lab03_final_add_sub_tb => Add carry:	1 / 1
+	Successful
+
+lab03_final_add_sub_tb => Add result:	1 / 1
+	Successful
+
+lab03_final_add_sub_tb => Sub zero:	2 / 2
+	Successful
+
+lab03_final_add_sub_tb => Sub carry:	1 / 1
+	Successful
+
+lab03_final_add_sub_tb => Sub result:	1 / 1
+	Successful
+
+lab03_final_alu_tb => Add/Sub:	1 / 1
+	Successful
+
+lab03_final_alu_tb => Comparison:	1 / 1
+	Successful
+
+lab03_final_alu_tb => Logical:	1 / 1
+	Successful
+
+lab03_final_alu_tb => Shift/Rotate:	1 / 1
+	Successful
+
+lab03_final_comparator_tb => <= Signed:	0.6 / 0.6
+	Successful
+
+lab03_final_comparator_tb => > Signed:	0.6 / 0.6
+	Successful
+
+lab03_final_comparator_tb => Not equal:	0.6 / 0.6
+	Successful
+
+lab03_final_comparator_tb => Equal:	0.6 / 0.6
+	Successful
+
+lab03_final_comparator_tb => <= Unsigned:	0.6 / 0.6
+	Successful
+
+lab03_final_comparator_tb => > Unsigned:	0.6 / 0.6
+	Successful
+
+lab03_final_logic_unit_tb => NOR:	0.6 / 0.6
+	Successful
+
+lab03_final_logic_unit_tb => AND:	0.6 / 0.6
+	Successful
+
+lab03_final_logic_unit_tb => OR:	0.6 / 0.6
+	Successful
+
+lab03_final_logic_unit_tb => XOR:	0.6 / 0.6
+	Successful
+
+lab03_final_multiplexer_tb => Multiplexor:	2 / 2
+	Successful
+
+lab04_final_decoder_tb => All:	1.25 / 1.25
+	Successful
+
+lab04_final_decoder_tb => RAM:	1.25 / 1.25
+	Successful
+
+lab04_final_decoder_tb => ROM:	1.25 / 1.25
+	Successful
+
+lab04_final_decoder_tb => LEDs:	1.25 / 1.25
+	Successful
+
+lab04_final_ram_tb => Tristate:	2 / 2
+	Successful
+
+lab04_final_ram_tb => Read / Write:	3 / 3
+	Successful
+
+lab04_final_register_file_tb => Write:	2 / 2
+	Successful
+
+lab04_final_register_file_tb => Write / asynchronous read:	2 / 2
+	Successful
+
+lab04_final_register_file_tb => Register zero:	2 / 2
+	Successful
+
+lab04_final_register_file_tb => Load / asynchronous read:	2 / 2
+	Successful
+
+lab04_final_register_file_tb => Read:	2 / 2
+	Successful
+
+lab06_final_controller_tb => ret state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => ret alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => jmp state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => jmp alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => roli state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => roli alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110000 but got 000000, when op = 111010, opx = 000010
+
+lab06_final_controller_tb => srli state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => srli alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110011 but got 000000, when op = 111010, opx = 011010
+
+lab06_final_controller_tb => srai state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => srai alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110111 but got 000000, when op = 111010, opx = 111010
+
+lab06_final_controller_tb => callr state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => callr alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => srl state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => srl alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110011 but got 000000, when op = 111010, opx = 011011
+
+lab06_final_controller_tb => and state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => and alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100001 but got 000000, when op = 111010, opx = 001110
+
+lab06_final_controller_tb => add state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => add alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => sub state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => sub alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 001111 but got 000000, when op = 111010, opx = 111001
+
+lab06_final_controller_tb => cmple state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmple alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011001 but got 000000, when op = 111010, opx = 001000
+
+lab06_final_controller_tb => cmpgt state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpgt alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011010 but got 000000, when op = 111010, opx = 010000
+
+lab06_final_controller_tb => nor state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => nor alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100000 but got 000000, when op = 111010, opx = 000110
+
+lab06_final_controller_tb => or state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => or alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100010 but got 000000, when op = 111010, opx = 010110
+
+lab06_final_controller_tb => xor state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => xor alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100011 but got 000000, when op = 111010, opx = 011110
+
+lab06_final_controller_tb => sll state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => sll alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110010 but got 000000, when op = 111010, opx = 010011
+
+lab06_final_controller_tb => sra state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => sra alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110111 but got 000000, when op = 111010, opx = 111011
+
+lab06_final_controller_tb => slli state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => slli alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110010 but got 000000, when op = 111010, opx = 010010
+
+lab06_final_controller_tb => cmpne state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpne alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011011 but got 000000, when op = 111010, opx = 011000
+
+lab06_final_controller_tb => cmpeq state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpeq alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011100 but got 000000, when op = 111010, opx = 100000
+
+lab06_final_controller_tb => cmpleu state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpleu alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011101 but got 000000, when op = 111010, opx = 101000
+
+lab06_final_controller_tb => cmpgtu state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpgtu alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011110 but got 000000, when op = 111010, opx = 110000
+
+lab06_final_controller_tb => rol state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => rol alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110000 but got 000000, when op = 111010, opx = 000011
+
+lab06_final_controller_tb => ror state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => ror alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 110001 but got 000000, when op = 111010, opx = 001011
+
+lab06_final_controller_tb => call state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => call alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => addi state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => addi alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => br state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => br alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => bge state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => bge alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011001 but got 000000, when op = 001110, opx = 001011
+
+lab06_final_controller_tb => blt state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => blt alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011010 but got 000000, when op = 010110, opx = 001011
+
+lab06_final_controller_tb => bne state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => bne alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011011 but got 000000, when op = 011110, opx = 001011
+
+lab06_final_controller_tb => beq state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => beq alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011100 but got 000000, when op = 100110, opx = 001011
+
+lab06_final_controller_tb => bleu state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => bleu alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011101 but got 000000, when op = 101110, opx = 001011
+
+lab06_final_controller_tb => bgtu state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => bgtu alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011110 but got 000000, when op = 110110, opx = 001011
+
+lab06_final_controller_tb => load state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => load alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => store state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => store alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => andi state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => andi alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100001 but got 000000, when op = 001100, opx = 001011
+
+lab06_final_controller_tb => xnori state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => xnori alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100011 but got 000000, when op = 011100, opx = 001011
+
+lab06_final_controller_tb => ori state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => ori alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 100010 but got 000000, when op = 010100, opx = 001011
+
+lab06_final_controller_tb => cmpleui state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpleui alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011101 but got 000000, when op = 101000, opx = 001011
+
+lab06_final_controller_tb => cmpgtui state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpgtui alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011110 but got 000000, when op = 110000, opx = 001011
+
+lab06_final_controller_tb => jmpi state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => jmpi alu:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmplei state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmplei alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011001 but got 000000, when op = 001000, opx = 001011
+
+lab06_final_controller_tb => cmpgti state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpgti alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011010 but got 000000, when op = 010000, opx = 001011
+
+lab06_final_controller_tb => cmpnei state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpnei alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011011 but got 000000, when op = 011000, opx = 001011
+
+lab06_final_controller_tb => cmpeqi state:	0.35 / 0.35
+	Successful
+
+lab06_final_controller_tb => cmpeqi alu:	0 / 0.35
+	Wrong ALU operation selected. Expected op_alu = 011100 but got 000000, when op = 100000, opx = 001011
+
+lab06_final_extend_tb => Signed:	2.45 / 2.45
+	Successful
+
+lab06_final_extend_tb => Unsigned:	2.45 / 2.45
+	Successful
+
+lab06_final_ir_tb => IR:	2 / 2
+	Successful
+
+lab06_final_mux2x5_tb => Mux2x5:	1 / 1
+	Successful
+
+lab06_final_mux2x16_tb => Mux2x16:	1 / 1
+	Successful
+
+lab06_final_mux2x32_tb => Mux2x32:	1 / 1
+	Successful
+
+lab06_final_pc_tb => Count on lower bits:	2.5 / 2.5
+	Successful
+
+lab06_final_pc_tb => Count when enabled:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Count by increment of 4:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Select immediate:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Immediate is shifted right by 2:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => PC is synchronous:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Reset is asynchronous:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Enabled and add immediate:	1.7 / 1.7
+	Successful
+
+lab06_final_pc_tb => Address validity:	2.5 / 2.5
+	Successful
+
+lab06_final_pc_tb => Select a:	1.7 / 1.7
+	Successful
+
+You got a score of 87.7500000000001 / 100 (87.7%) on job 03
+
+>> Cleaning the working directory
+
+>> End of evaluation.
+Archiving artifacts
+Recording test results
+Build step 'Publish JUnit test result report' changed build result to UNSTABLE
+Finished: UNSTABLE
