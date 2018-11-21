@@ -6,7 +6,7 @@ date: December 2017
 title: Driving Tony
 ---
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](Multicycle-Processor/icon.png)
 
 Description
 ===========
