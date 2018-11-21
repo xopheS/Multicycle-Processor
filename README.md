@@ -1,5 +1,3 @@
-# Multicycle-Processor
-
 ---
 author:
 - Christophe Saad
